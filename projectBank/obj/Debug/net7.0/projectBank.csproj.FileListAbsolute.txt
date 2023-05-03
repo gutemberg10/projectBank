@@ -1,0 +1,15 @@
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\bin\Debug\net7.0\projectBank.exe
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\bin\Debug\net7.0\projectBank.deps.json
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\bin\Debug\net7.0\projectBank.runtimeconfig.json
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\bin\Debug\net7.0\projectBank.dll
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\bin\Debug\net7.0\projectBank.pdb
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.csproj.AssemblyReference.cache
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.AssemblyInfoInputs.cache
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.AssemblyInfo.cs
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.dll
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\refint\projectBank.dll
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.pdb
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\projectBank.genruntimeconfig.cache
+C:\Users\SQUADRA\source\repos\projectBank\projectBank\obj\Debug\net7.0\ref\projectBank.dll
